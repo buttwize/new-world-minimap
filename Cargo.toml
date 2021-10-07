@@ -1,0 +1,8 @@
+[package]
+name = "new-world-minimap"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+leptess = "0.13"
+scrap = "0.5"
